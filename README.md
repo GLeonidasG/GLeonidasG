@@ -1,6 +1,6 @@
 # Hello there, I'm Leônidas
 
-I am a software engineer and fullstack web developer on Brazil.
+I am a software engineer and fullstack web developer in Brazil.
 
 ### Favorite stack
   ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -19,6 +19,6 @@ I am a software engineer and fullstack web developer on Brazil.
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-You can find me on 
+### And you can find me on 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gen%C3%A1rio-le%C3%B4nidas-goetz-928147195/)
